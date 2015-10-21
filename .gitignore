@@ -1,2 +1,3 @@
 seqConfig/
 hgac_lims/secret_settings.py*
+hgac_lims/my.cnf*
