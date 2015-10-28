@@ -25,7 +25,10 @@ lib64/
 parts/
 sdist/
 var/
-migrations/
+seqConfig/
+hgac_lims/secret_settings.py*
+hgac_lims/my.cnf*
+wireless-s1-so-150-
 *.egg-info/
 .installed.cfg
 *.egg
