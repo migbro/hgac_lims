@@ -18,6 +18,6 @@ from django.contrib import admin
 
 urlpatterns = [
     url(r'^admin/', include(admin.site.urls)),
-    url(r'^seqConfig/', include('seqConfig.urls')),
+    url(r'^seq-config/', include('seqConfig.urls')),
     url(r'^', include('django.contrib.auth.urls'))
 ]
